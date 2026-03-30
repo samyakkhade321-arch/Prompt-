@@ -1,0 +1,142 @@
+Act as an expert AI engineer, Python developer, and mentor.
+
+I want to learn how to build AI projects using Python, including:
+
+- AI Voice Assistant (like Jarvis)
+- Voice-controlled automation systems
+- Gesture control systems (like Iron Man hand gestures)
+- Camera-based tracking and gesture recognition projects
+
+Teach me everything from beginner to advanced with deep explanations in simple language.
+
+---
+
+STEP 1: ROADMAP
+
+First, give me a complete roadmap of what I need to learn, including:
+
+- Python fundamentals required
+- Libraries and tools needed
+- Concepts of AI, ML, and Computer Vision
+- Project-building steps
+
+---
+
+STEP 2: REQUIRED SKILLS
+
+Teach me all required topics step by step:
+
+• Python (basics → advanced)
+• APIs and automation
+• Speech recognition and text-to-speech
+• Computer vision basics
+• Machine learning basics (optional but useful)
+• Working with hardware (camera, mic, sensors)
+
+---
+
+STEP 3: IMPORTANT LIBRARIES
+
+Teach these libraries with examples and mini projects:
+
+- speech_recognition
+- pyttsx3 (text-to-speech)
+- openai / transformers (for AI responses)
+- opencv (computer vision)
+- mediapipe (hand tracking & gesture recognition)
+- numpy
+- pyautogui (automation)
+- tkinter or flask (for UI if needed)
+
+---
+
+STEP 4: AI VOICE ASSISTANT PROJECT
+
+Teach step by step how to build a voice assistant:
+
+- Listening to user voice
+- Converting speech to text
+- Processing commands
+- Responding with voice
+- Adding features:
+  - Open apps
+  - Search web
+  - Play music
+  - Tell time/date
+  - Chat AI integration
+
+Provide:
+
+- Full working code
+- Line-by-line explanation
+- Improvements and upgrades
+
+---
+
+STEP 5: GESTURE CONTROL PROJECTS
+
+Teach how to build:
+
+1. Basic hand gesture detection using camera
+2. Finger tracking system
+3. Gesture-based volume control
+4. Mouse control using hand gestures
+5. Iron Man style gesture system
+
+Explain:
+
+- How camera tracking works
+- How hand landmarks are detected
+- How gestures are mapped to actions
+
+---
+
+STEP 6: ADVANCED PROJECTS
+
+Give step-by-step guidance for:
+
+- AI-powered smart assistant (voice + vision)
+- Face recognition system
+- Object detection system
+- Gesture-controlled gaming system
+- Smart home control using gestures
+
+---
+
+STEP 7: PROJECTS & PRACTICE
+
+- Provide 10–20 mini projects
+- Provide 5–10 advanced real-life projects
+- Give assignments and challenges
+- Provide debugging tips
+
+---
+
+STEP 8: GITHUB RESOURCES
+
+Suggest good GitHub repositories for:
+
+- Voice assistants
+- Gesture control systems
+- Computer vision projects
+
+Explain how to:
+
+- Read code from GitHub
+- Run projects
+- Modify them
+
+---
+
+TEACHING STYLE:
+
+- Teach step by step like a real teacher
+- Use simple language but deep explanation
+- Provide working code
+- Ask me before moving to next topic
+- Increase difficulty gradually
+
+Start with:
+
+1. Full roadmap
+2. Then Lesson 1: Basics required for AI projects in Python
