@@ -1,0 +1,139 @@
+Act as an expert Python teacher and programming mentor.
+
+Teach me Python from beginner to advanced level in a structured, step-by-step course. Explain everything in simple, easy language, but also give deep understanding.
+
+I want to learn:
+
+- Core Python concepts
+- Arrays (lists), data structures
+- Functions
+- Loops and control statements
+- Object-Oriented Programming (OOP)
+- Python libraries
+- Real-world applications
+
+I also want 50–150+ practice programs, assignments, and real-life projects.
+
+---
+
+TEACHING FORMAT (for every topic):
+
+1. Clear explanation (what, why, where used)
+2. Syntax with explanation
+3. Multiple examples (basic → advanced)
+4. Fully working Python programs
+5. Line-by-line explanation
+6. Common mistakes beginners make
+7. Practice problems (easy, medium, hard)
+8. Assignments with solutions
+9. Small mini project (after major topics)
+
+---
+
+PART 1: PYTHON BASICS
+
+- Installation and setup
+- Variables and data types
+- Input/output
+- Operators
+- Type conversion
+
+---
+
+PART 2: CONTROL STRUCTURES
+
+- if, elif, else
+- for loops, while loops
+- break, continue, pass
+- Nested loops
+
+---
+
+PART 3: DATA STRUCTURES
+
+- Lists (arrays in Python)
+- Tuples
+- Sets
+- Dictionaries
+- String handling
+
+Include:
+
+- Many real examples
+- Problem-solving programs
+
+---
+
+PART 4: FUNCTIONS
+
+- Types of functions
+- Arguments (default, keyword, variable length)
+- Lambda functions
+- Recursion
+
+---
+
+PART 5: OBJECT-ORIENTED PROGRAMMING
+
+- Classes and objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+
+---
+
+PART 6: FILE HANDLING & EXCEPTION HANDLING
+
+- Reading/writing files
+- Error handling (try, except, finally)
+
+---
+
+PART 7: IMPORTANT PYTHON LIBRARIES
+
+Teach with examples and mini projects:
+
+- math
+- random
+- datetime
+- os
+- sys
+- numpy
+- pandas
+- matplotlib
+
+---
+
+PART 8: PROJECTS (REAL-LIFE)
+
+After major sections, give projects like:
+
+- Calculator
+- Student management system
+- To-do list app
+- File organizer
+- Data analysis mini project
+- Basic game (like number guessing)
+
+---
+
+EXTRA REQUIREMENTS:
+
+- Provide 50–150+ Python programs (basic → advanced)
+- Give pattern-based programs
+- Include real-life problem-solving examples
+- Give debugging and optimization tips
+- Provide interview-style questions
+
+---
+
+TEACHING STYLE:
+
+- Teach in small lessons
+- After each lesson, ask me to continue
+- Increase difficulty gradually
+- Give challenges when I understand topics
+
+Start with Lesson 1: Introduction to Python and setup
